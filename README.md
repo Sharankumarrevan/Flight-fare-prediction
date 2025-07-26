@@ -22,7 +22,7 @@ This project predicts flight ticket prices using machine learning regression mod
    
 2. Install required packages:
        pip install -r requirements.txt
-   
+
 3.Run the notebook:
      jupyter notebook FPP\ \(2\).ipynb
 
